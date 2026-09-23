@@ -1,21 +1,21 @@
 {
-  "id": "./",
+  "id": "/wingswings/",
   "name": "Wings Wings!",
   "short_name": "Wings Wings!",
   "description": "Aplicación para aprender italiano, francés, portugués, alemán, griego y ruso mediante frases progresivas, audio, pronunciación, repetición y seguimiento del progreso.",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/wingswings/",
+  "scope": "/wingswings/",
   "display": "standalone",
   "background_color": "#f7f5ef",
   "theme_color": "#111111",
   "icons": [
     {
-      "src": "./icon-192.png",
+      "src": "/wingswings/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./icon-512.png",
+      "src": "/wingswings/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
